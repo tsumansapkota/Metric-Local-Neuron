@@ -1,7 +1,5 @@
-# Metric-Local-Neuron
+# Metric as Transform: Exploring beyond Affine Transform for Interpretable Neural Network
 
-We will release the code soon...
+[Paper](https://arxiv.org/abs/2410.16159)
 
-Develop code available: [Part 1](https://github.com/tsumansapkota/Experimentals/tree/master/NN_Func_Approx/Spatial_Neurons/MetricTransform) and [Part 2](https://github.com/tsumansapkota/Experimentals/tree/master/NN_Func_Approx/Iterative_Learning)
-
-**We are actively seeking collaboration and feedback on this work.**
+Run the notebooks sequentially.
